@@ -1,0 +1,8 @@
+[package]
+name = "fix-ardour-lv2-index"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+
+[dependencies]
+roxmltree = "0.20.0"
